@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 微軟正黑體;
+}
+
+body {
+    background: radial-gradient(rgb(102, 204, 239), rgb(0, 0, 0));
+    height: 100vh;
+}
+
+#clock {
+    font-size: 80px;
+    color: #005958;
+    text-align: center;
+    margin: 0 auto;
+    text-shadow: 0 0 12px #5FFEFC;
+    height: 100vh;
+    line-height: 100vh;
+}
